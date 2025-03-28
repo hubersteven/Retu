@@ -6,7 +6,7 @@ const HeroCards = () => {
   return (
     <div id="hero-card">
       <div className="card-text">
-        <h4>Encuentra tu destino idel con ReTu</h4>
+        <h4>Encuentra tu destino ideal con ReTu</h4>
         <p>
           Haz el test y encuentra el lugar perfecto para tu próxima aventura.
         </p>
