@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Variables de entorno
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# VSCode configs (opcionales si no quieres compartir tu configuración)
+.vscode/
+
+# Salidas de producción (por si generas builds o dumps)
+dist/
+coverage/
+
+# MongoDB dumps o backups
+dump/
